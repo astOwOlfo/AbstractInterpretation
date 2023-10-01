@@ -6,4 +6,5 @@ The finished parts are:
 The unfinished parts are:
 - The value domain, i.e. the part that concerns itself with abstract interpretation of arithmetic, is **not implemented**.
 - There is no parser and no semantics defined for the toy language and nothing to translate it to the control flow graph format. For now, the project only concerns itself with the control flow graph.
+
 The code quality of many proof scripts is low.
